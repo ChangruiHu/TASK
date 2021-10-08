@@ -1,0 +1,17 @@
+.App {
+  padding-bottom: 1em;
+  margin-top: 5em;
+  margin-bottom: 5em;
+  border: 1px solid rgb(216, 204, 204);
+  border-radius: 5px;
+}
+
+.FormGroup {
+  padding: 1em;
+}
+
+
+.Input {
+  width: 25em;
+  padding-left: 2em;
+}
